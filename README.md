@@ -5,9 +5,9 @@
 ### 2.1 Equation Editing
 | # | text | formula |
 |---|------|---------|
-| 1 | IF (P AND Q) THEN R | $$P$$|
-| 2 | (P XOR Q) OR R | $$P$$      |
-| 3 | NOT P IFF Q |  $$P$$   |
+| 1 | IF (P AND Q) THEN R | $$(P\wedgeQ)\rightarrowR$$|
+| 2 | (P XOR Q) OR R | $$$$      |
+| 3 | NOT P IFF Q |  $$$$   |
 | 4 | FOR ALL x, P(x) | $$P$$  |
 | 5 | THERE EXISTS AN x, NOT Q(x) | $$P$$ |
 | 6 | IF P THEN Q EQUIVALENT TO NOT P OR Q | $$P$$ |
