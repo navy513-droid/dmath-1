@@ -5,7 +5,7 @@
 ### 2.1 Equation Editing
 | # | text | formula |
 |---|------|---------|
-| 1 | IF (P AND Q) THEN R | $$(P\wedgeQ)\rightarrowR$$|
+| 1 | IF (P AND Q) THEN R |(P\wedgeQ)\rightarrowR|
 | 2 | (P XOR Q) OR R | $$$$      |
 | 3 | NOT P IFF Q |  $$$$   |
 | 4 | FOR ALL x, P(x) | $$P$$  |
